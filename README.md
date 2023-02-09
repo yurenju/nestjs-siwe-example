@@ -24,7 +24,7 @@ $ npm run start
 
 open http://localhost:3000/ to access the sample page and click the "Ethereum Sign-in" button to login
 
-![[siwe-frontend.jpg]]
+![siwe-frontend.jpg](siwe-frontend.jpg)
 
 ## License
 
